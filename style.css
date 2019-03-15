@@ -1,7 +1,7 @@
 body {
 	/*padding-left: 11em;*/
 	font-family: georgia, "times new roman", times, serif;
-	color: black;
+	color: blue;
 	background-color: white;
 	width:80%;
  }
@@ -22,7 +22,7 @@ h3{
 }
 .titre{
  	display: block;
-	color: red;
+	color: green;
 	text-align: center;
 }
 .adroite{
